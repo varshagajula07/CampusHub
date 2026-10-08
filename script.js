@@ -1,0 +1,1 @@
+console.log("CampusHub website loaded successfully!");
